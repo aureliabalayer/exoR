@@ -30,8 +30,8 @@ journalinfo: "Publication reference"
 archive: "DOI: xxx/xx"
 # Date format: '%Y %B %d' for distill
 date: "`r format(Sys.time(), '%Y %B %d')`"
-url: https://GitHubID.github.io/Repository/
-github-repo: GitHubID/Repository
+url: https://aureliabalayer.github.io/exoR/
+github-repo: aureliabalayer/exoR
 # Language
 lang: en-US
 otherlangs: [fr-FR,it]
